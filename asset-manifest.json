@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/repo-name/static/css/main.aa388a3f.css",
-    "main.js": "/repo-name/static/js/main.92b6b6fe.js",
-    "index.html": "/repo-name/index.html",
-    "main.aa388a3f.css.map": "/repo-name/static/css/main.aa388a3f.css.map",
-    "main.92b6b6fe.js.map": "/repo-name/static/js/main.92b6b6fe.js.map"
+    "main.css": "/electronics-products/static/css/main.aa388a3f.css",
+    "main.js": "/electronics-products/static/js/main.f3a24acc.js",
+    "index.html": "/electronics-products/index.html",
+    "main.aa388a3f.css.map": "/electronics-products/static/css/main.aa388a3f.css.map",
+    "main.f3a24acc.js.map": "/electronics-products/static/js/main.f3a24acc.js.map"
   },
   "entrypoints": [
     "static/css/main.aa388a3f.css",
-    "static/js/main.92b6b6fe.js"
+    "static/js/main.f3a24acc.js"
   ]
 }
