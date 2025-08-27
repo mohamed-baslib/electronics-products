@@ -44,10 +44,10 @@
 ## 🧩 كيفية تشغيل المشروع محليًا
 
 # استنساخ المشروع
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/mohamed-baslib/electronics-products.git
 
 # الدخول إلى مجلد المشروع
-cd repo-name
+cd electronics-products
 
 # تثبيت الحزم المطلوبة
 npm install
