@@ -68,7 +68,7 @@ header .shoping:hover span {
 }
 
 .info {
-  height: 33%;
+  height: 35%;
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -76,7 +76,7 @@ header .shoping:hover span {
 }
 
 .product-name {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .price {
@@ -254,6 +254,10 @@ header .shoping:hover span {
   .shoping-list {
     width: 100%;
   }
+
+  .product-name {
+    font-size: 17px;
+  }
 }
 
 @media (max-width: 499px) {
@@ -267,5 +271,9 @@ header .shoping:hover span {
 
   .shoping-list .product {
     width: 100%;
+  }
+
+  .product-name {
+    font-size: 17px;
   }
 }
