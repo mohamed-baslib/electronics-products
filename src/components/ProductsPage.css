@@ -181,17 +181,12 @@ header .shoping:hover span {
   text-align: end;
 }
 
-.shoping-list .info .btn-remove {
+.shoping-list .info .remove {
   position: absolute;
-  bottom: 5px;
-  right: 3%;
-  background-color: #d30006;
-  color: #fff;
-  border: none;
-  border-radius: 10px;
-  padding: 5px 10px;
-  font-weight: bold;
-  font-size: 11px;
+  bottom: 10px;
+  right: 4%;
+  color: #d30006;
+  font-size: 17px;
 }
 
 .shoping-list .info .btn-add:hover {

@@ -20,9 +20,9 @@ export default function ShopinList({show, isShow, newProducts, totalProduct, rem
         <p className="price" price={product.productPrice}>
           ${product.productPrice}
         </p>
-        <button className="btn-remove" onClick={() => {
+        <i className="remove fa-solid fa-trash-can" onClick={() => {
             removeProduct(index)
-        }}>حذف</button>
+        }}></i>
       </div>
     </div>
         ))}
